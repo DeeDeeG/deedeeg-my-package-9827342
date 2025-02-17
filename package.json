@@ -7,7 +7,8 @@
   "activationCommands": {
     "atom-workspace": "deedeeg-my-package-9827342:toggle"
   },
-  "repository": "https://github.com/DeeDeeG/deedeeg-my-new-package-1823481341",
+  "repository": "https://github.com/DeeDeeG/deedeeg-my-package-9827342",
+
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
